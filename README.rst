@@ -22,7 +22,7 @@ Features
 --------
 
 .. image:: notebook.png
-   :scale: 50 %
+   :scale: 30 %
 
 
 Credits
