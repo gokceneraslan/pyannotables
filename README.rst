@@ -21,6 +21,9 @@ Installation
 Features
 --------
 
+.. image:: notebook.png
+   :scale: 50 %
+
 
 Credits
 -------
