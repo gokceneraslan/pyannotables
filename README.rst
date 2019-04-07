@@ -28,7 +28,6 @@ Features
 Credits
 -------
 
-.. _annotables: https://github.com/stephenturner/annotables
-.. _pyensembl: https://github.com/openvax/pyensembl/tree/master/pyensembl
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+* `annotables package in R` https://github.com/stephenturner/annotables
+* pyensembl: https://github.com/openvax/pyensembl/tree/master/pyensembl
+* `audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
