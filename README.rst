@@ -24,6 +24,12 @@ Features
 .. image:: notebook.png
    :scale: 30 %
 
+   
+Building data frames
+---------------------
+
+See `<./build.ipynb>`_.
+
 
 Credits
 -------
