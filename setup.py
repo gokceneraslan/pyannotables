@@ -38,6 +38,6 @@ setup(
     package_data={'': ['datafile_*']},
     setup_requires=setup_requirements,
     url='https://github.com/gokceneraslan/pyannotables',
-    version='0.1.1',
+    version='0.1.2',
     zip_safe=False,
 )
