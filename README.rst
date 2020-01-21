@@ -35,5 +35,4 @@ Credits
 -------
 
 * `annotables package in R` https://github.com/stephenturner/annotables
-* pyensembl: https://github.com/openvax/pyensembl
 * `audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
