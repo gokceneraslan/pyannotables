@@ -7,7 +7,7 @@ pyannotables
         :target: https://pypi.python.org/pypi/pyannotables
 
 
-Python package for conversions between ENSEMBL IDs and gene names (annotables + pyensembl)
+Python package for conversions between Ensembl IDs and gene names (annotables + pyranges + Ensembl GTF files)
 
 * Free software: Apache Software License 2.0
 
