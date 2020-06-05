@@ -28,7 +28,8 @@ Features
 Building data frames
 ---------------------
 
-See `<./build.ipynb>`_.
+See `./build.ipynb
+<https://nbviewer.ipython.org/github/gokceneraslan/pyannotables/blob/master/build.ipynb>`_.
 
 
 Changelog
