@@ -2,6 +2,14 @@
 History
 =======
 
+
+v0.5 (2020-10-29)
+-----------------
+
+* Homology mapping table and function (`homology_convert`) are added.
+* tables is now a function.
+
+
 v0.4 (2020-10-27)
 -----------------
 

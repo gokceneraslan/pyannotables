@@ -35,6 +35,7 @@ See `./build.ipynb
 Changelog
 ---------
 
+* v0.5: Homology mapping table and function (`homology_convert`) are added. tables is a function now.
 * v0.4: Entrez and UNIPROT IDs are added.
 * v0.3: Ensembl version updated to 100. NCBI transcript IDs, gene lengths and gene exon lengths are added.
 
